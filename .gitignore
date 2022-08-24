@@ -1,5 +1,4 @@
 # remove data files
-Resources/**
 *.csv
 
 $ config
